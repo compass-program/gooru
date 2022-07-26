@@ -1,0 +1,23 @@
+//* colors
+$primary: #5960c7;
+
+$secondary: #197eca;
+
+$light-blue: #f1f7ff;
+
+$red: #ff5252;
+
+$black: #323232;
+$dark: #383838;
+$gray: #4b5768;
+$light-gray: #dcdcdc;
+$white: #fff;
+
+//* scrollbar
+$scrollbarBg: rgb(235, 235, 235);
+$scrollbarThumb: $primary;
+$scrollbarWidth: 1rem;
+$scrollbarBorder: 0.2rem solid $scrollbarBg;
+$scrollbarBorderRadius: calc(($scrollbarWidth) / 2);
+
+$shadow: 0 0.4rem 1.2rem rgba(0, 0, 0, 0.08);
